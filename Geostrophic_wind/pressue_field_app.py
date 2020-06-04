@@ -2,7 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from numpy import sin
 from mpl_toolkits.axes_grid1 import make_axes_locatable
-from matplotlib import cm
 
 # Константы
 dn = 100000  # Шаг сетки, М
